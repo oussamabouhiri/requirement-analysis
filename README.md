@@ -3,7 +3,7 @@ Requirement Analysis in Software Development
 This repository documents the process of Requirement Analysis in the Software Development Lifecycle (SDLC).
 It provides definitions, importance, key activities, types of requirements, diagrams, and acceptance criteria for a booking management system project.
 
-![alx-booking-uc.png](https://github.com/oussamabouhiri/requirement-analysis/blob/master/ChatGPT%20Image%20Aug%2031%2C%202025%2C%2004_45_07%20PM.png)
+![alx-booking-uc.png](alx-booking-uc.png)
 
 
 What is Requirement Analysis?
