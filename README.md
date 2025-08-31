@@ -3,6 +3,9 @@ Requirement Analysis in Software Development
 This repository documents the process of Requirement Analysis in the Software Development Lifecycle (SDLC).
 It provides definitions, importance, key activities, types of requirements, diagrams, and acceptance criteria for a booking management system project.
 
+![My Picture]()
+
+
 What is Requirement Analysis?
 
 Requirement Analysis is a critical phase in the Software Development Lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed.
